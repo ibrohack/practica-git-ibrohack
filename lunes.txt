@@ -1,3 +1,4 @@
 Hoy hemos empezado el curso de Git
 Manana seguimos con el ciclo basico
 Repasando la sesion anterior
+El lunes repasamos el historial con git log
